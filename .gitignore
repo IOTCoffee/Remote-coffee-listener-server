@@ -1,0 +1,7 @@
+out/
+repos/
+build/
+.gradle/
+.idea/
+.idea/*
+.idea/workspace.xml
